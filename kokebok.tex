@@ -1,0 +1,54 @@
+\documentclass[12pt,a4paper,oneside]{report}
+
+%% Language and font encodings
+\usepackage[norsk]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+
+%% Sets page size and margins
+%\usepackage[a4paper]{geometry}
+
+\usepackage{graphicx}%for å kunne ha bilder i kokeboken
+\usepackage{booktabs}%for fine tabeller
+
+\usepackage{enumitem} %for mer kompakte lister kombinert med \begin{itemize}[noitemsep]
+\usepackage[pdfauthor={Fredrik Lindseth}, pdftitle={Kokeboken til Fredrik}, pagebackref=true, pdftex]{hyperref}%for \url og klikkbar innholdsfortegnelse
+\usepackage{url} %bli kvitt alle \url. Endre til \hyperref og fjern denne
+
+\usepackage{gensymb} %for \degree
+
+\hypersetup{colorlinks=true,
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black %fargen på link hvis colorlinks=true
+    %urlbordercolor 	={0 0 1} %if colorlinks=false, ha boks i stedet
+}
+\urlstyle{same} %for å bruke samme font til URL som resten
+
+\title{Kokeboken til Fredrik}
+\author{Fredrik Lindseth}
+\date{Sist oppdatert \today}
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+\clearpage
+
+\input todo.tex
+\clearpage
+
+\chapter{Middager}
+\input sorterteOppskrifter.tex
+
+\chapter{Kaker og deserter}
+\input sorterteDeserter.tex
+
+\chapter{Brygg}
+\input sorterteBrygg.tex
+
+
+
+\end{document}

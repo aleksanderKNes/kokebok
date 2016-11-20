@@ -1,0 +1,210 @@
+\select@language {norsk}
+\contentsline {paragraph}{Ting som m\IeC {\r a} gj\IeC {\o }res i kokeboken}{4}{section*.2}
+\contentsline {chapter}{\numberline {1}Middager}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}Ern\IeC {\ae }ringskorrekt br\IeC {\o }d}{6}{section.1.1}
+\contentsline {paragraph}{Ingredienser}{6}{section*.3}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{6}{section*.4}
+\contentsline {section}{\numberline {1.2}\IeC {{}}Sm\IeC {\o }rdampet brokkoli}{8}{section.1.2}
+\contentsline {paragraph}{Ingredienser}{8}{section*.5}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{8}{section*.6}
+\contentsline {section}{\numberline {1.3}Brun saus}{9}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Brun saus ala Pappa}{9}{subsection.1.3.1}
+\contentsline {paragraph}{Ingredienser}{9}{section*.7}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{9}{section*.8}
+\contentsline {subsection}{\numberline {1.3.2}Brun saus fra Enkel Kokebok}{9}{subsection.1.3.2}
+\contentsline {paragraph}{Ingredienser}{9}{section*.9}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{9}{section*.10}
+\contentsline {section}{\numberline {1.4}\IeC {{}}Club Sandwich}{10}{section.1.4}
+\contentsline {paragraph}{Ingredienser}{10}{section*.11}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{10}{section*.12}
+\contentsline {section}{\numberline {1.5}\IeC {{}}Egger\IeC {\o }re}{11}{section.1.5}
+\contentsline {paragraph}{Ingredienser}{11}{section*.13}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{11}{section*.14}
+\contentsline {section}{\numberline {1.6}\IeC {{}}Fiskepinner}{12}{section.1.6}
+\contentsline {paragraph}{Ingredienser}{12}{section*.15}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{12}{section*.16}
+\contentsline {section}{\numberline {1.7}\IeC {{}}Fl\IeC {\o }tegratinerte poteter}{13}{section.1.7}
+\contentsline {paragraph}{Ingredienser}{13}{section*.17}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{13}{section*.18}
+\contentsline {paragraph}{N\IeC {\ae }ringsinnhold per porsjon}{13}{section*.19}
+\contentsline {section}{\numberline {1.8}\IeC {{}}Gravet hjortekj\IeC {\o }tt}{14}{section.1.8}
+\contentsline {paragraph}{Ingredienser til marinaden}{14}{section*.20}
+\contentsline {paragraph}{Ingredienser til tytteb\IeC {\ae }rdip}{14}{section*.21}
+\contentsline {paragraph}{Ingredienser til sennepsdip}{14}{section*.22}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{14}{section*.23}
+\contentsline {section}{\numberline {1.9}\IeC {{}}Guacamole}{15}{section.1.9}
+\contentsline {paragraph}{Ingredienser}{15}{section*.24}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{15}{section*.25}
+\contentsline {section}{\numberline {1.10}\IeC {{}}Hamburgerbr\IeC {\o }d}{16}{section.1.10}
+\contentsline {paragraph}{Ingredienser}{16}{section*.26}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{16}{section*.27}
+\contentsline {section}{\numberline {1.11}\IeC {{}}Hamburgerdeig}{17}{section.1.11}
+\contentsline {subsection}{\numberline {1.11.1}Ala pappa}{17}{subsection.1.11.1}
+\contentsline {paragraph}{Ingredienser}{17}{section*.28}
+\contentsline {subsection}{\numberline {1.11.2}Vibeckeifisert utgave}{17}{subsection.1.11.2}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{17}{section*.29}
+\contentsline {section}{\numberline {1.12}\IeC {{}}Horn}{19}{section.1.12}
+\contentsline {paragraph}{Ingredienser}{19}{section*.30}
+\contentsline {paragraph}{Ingredienser ganger 1.6 for \IeC {\r a} maksimere kapasiteten til kitchenaid}{19}{section*.31}
+\contentsline {section}{\numberline {1.13}\IeC {{}}Indrefilet med sopp og gorgonzola}{20}{section.1.13}
+\contentsline {paragraph}{Ingredienser}{20}{section*.32}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{20}{section*.33}
+\contentsline {section}{\numberline {1.14}\IeC {{}}Kj\IeC {\o }ttkaker}{22}{section.1.14}
+\contentsline {paragraph}{Ingredienser}{22}{section*.34}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{22}{section*.35}
+\contentsline {section}{\numberline {1.15}\IeC {{}}Knekkebr\IeC {\o }d}{23}{section.1.15}
+\contentsline {paragraph}{Ingredienser}{23}{section*.36}
+\contentsline {paragraph}{Vibecke sine 2016--04--05}{23}{section*.37}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{23}{section*.38}
+\contentsline {section}{\numberline {1.16}\IeC {{}}Koteletter i ovnen ala Nordvik}{25}{section.1.16}
+\contentsline {paragraph}{Ingredienser}{25}{section*.39}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{25}{section*.40}
+\contentsline {section}{\numberline {1.17}\IeC {{}}Kyllingfilet med krydder og ost}{26}{section.1.17}
+\contentsline {paragraph}{Ingredienser}{26}{section*.41}
+\contentsline {paragraph}{Ingredienser til urter\IeC {\o }mme}{26}{section*.42}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te kyllingfilet}{26}{section*.43}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te urter\IeC {\o }mme}{26}{section*.44}
+\contentsline {section}{\numberline {1.18}\IeC {{}}Kyllinggrillspyd}{27}{section.1.18}
+\contentsline {paragraph}{Ingredienser}{27}{section*.45}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{27}{section*.46}
+\contentsline {section}{\numberline {1.19}\IeC {{}}Lapskaus}{28}{section.1.19}
+\contentsline {paragraph}{Ingredienser}{28}{section*.47}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{28}{section*.48}
+\contentsline {paragraph}{Tips:}{28}{section*.49}
+\contentsline {section}{\numberline {1.20}\IeC {{}}Lasagne}{29}{section.1.20}
+\contentsline {paragraph}{Ingredienser hvit saus ala Gordon Ramsey}{29}{section*.50}
+\contentsline {paragraph}{Ingredienser tomatsaus ala Klikk}{29}{section*.51}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te r\IeC {\o }d saus}{29}{section*.52}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te hvit}{29}{section*.53}
+\contentsline {section}{\numberline {1.21}\IeC {{}}M\IeC {\"u}sli}{31}{section.1.21}
+\contentsline {paragraph}{Ingredienser}{31}{section*.54}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{31}{section*.55}
+\contentsline {section}{\numberline {1.22}\IeC {{}}Oppskriftsmal}{32}{section.1.22}
+\contentsline {paragraph}{Ingredienser}{32}{section*.56}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{32}{section*.57}
+\contentsline {section}{\numberline {1.23}\IeC {{}}Panert torsk}{33}{section.1.23}
+\contentsline {paragraph}{Ingredienser}{33}{section*.58}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{33}{section*.59}
+\contentsline {section}{\numberline {1.24}\IeC {{}}Pasta al forno ala Filomena}{34}{section.1.24}
+\contentsline {paragraph}{Ingredienser}{34}{section*.60}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{34}{section*.61}
+\contentsline {section}{\numberline {1.25}\IeC {{}}Pasta pommedorini}{35}{section.1.25}
+\contentsline {paragraph}{Ingredienser}{35}{section*.62}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{35}{section*.63}
+\contentsline {section}{\numberline {1.26}\IeC {{}}Pastasalat}{36}{section.1.26}
+\contentsline {paragraph}{Ingredienser}{36}{section*.64}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{36}{section*.65}
+\contentsline {section}{\numberline {1.27}\IeC {{}}Pasta}{37}{section.1.27}
+\contentsline {paragraph}{Ingredienser}{37}{section*.66}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{37}{section*.67}
+\contentsline {section}{\numberline {1.28}\IeC {{}}Pepperbiff med peppersaus}{39}{section.1.28}
+\contentsline {paragraph}{Ingredienser}{39}{section*.68}
+\contentsline {paragraph}{Tilbeh\IeC {\o }r}{39}{section*.69}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{39}{section*.70}
+\contentsline {section}{\numberline {1.29}\IeC {{}}Peppersaus}{40}{section.1.29}
+\contentsline {paragraph}{Ingredienser}{40}{section*.71}
+\contentsline {section}{\numberline {1.30}\IeC {{}}Pesto med basilikum og parmesan}{41}{section.1.30}
+\contentsline {paragraph}{Ingredienser}{41}{section*.72}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{41}{section*.73}
+\contentsline {section}{\numberline {1.31}\IeC {{}}Pinnekj\IeC {\o }tt}{42}{section.1.31}
+\contentsline {paragraph}{Ingredienser}{42}{section*.74}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{42}{section*.75}
+\contentsline {subsubsection}{Notater}{42}{section*.76}
+\contentsline {paragraph}{Julebord hos Heine}{42}{section*.77}
+\contentsline {section}{\numberline {1.32}\IeC {{}}Pizzadeig}{44}{section.1.32}
+\contentsline {subsection}{\numberline {1.32.1}Napoletana fra Vinmonopolet}{44}{subsection.1.32.1}
+\contentsline {paragraph}{Ingredienser}{44}{section*.78}
+\contentsline {subsection}{\numberline {1.32.2}Regal hvetemels variant}{44}{subsection.1.32.2}
+\contentsline {paragraph}{Ingredienser}{44}{section*.79}
+\contentsline {subsection}{\numberline {1.32.3}Low FODMAP-variant}{44}{subsection.1.32.3}
+\contentsline {paragraph}{Ingredienser}{44}{section*.80}
+\contentsline {section}{\numberline {1.33}\IeC {{}}Pizza Margarita Spechiale}{45}{section.1.33}
+\contentsline {paragraph}{Ingredienser}{45}{section*.81}
+\contentsline {section}{\numberline {1.34}\IeC {{}}Pizza Miss Italia}{46}{section.1.34}
+\contentsline {paragraph}{Ingredienser}{46}{section*.82}
+\contentsline {section}{\numberline {1.35}\IeC {{}}Pappa sin potetstappe}{47}{section.1.35}
+\contentsline {paragraph}{Ingredienser}{47}{section*.83}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{47}{section*.84}
+\contentsline {section}{\numberline {1.36}\IeC {{}}R\IeC {\r a}kost}{48}{section.1.36}
+\contentsline {paragraph}{Ingredienser}{48}{section*.85}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{48}{section*.86}
+\contentsline {section}{\numberline {1.37}\IeC {{}}Ris}{49}{section.1.37}
+\contentsline {paragraph}{Ingredienser}{49}{section*.87}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{49}{section*.88}
+\contentsline {section}{\numberline {1.38}Speltrundstykker}{50}{section.1.38}
+\contentsline {paragraph}{Ingredienser}{50}{section*.89}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{50}{section*.90}
+\contentsline {section}{\numberline {1.39}\IeC {{}}Semulegrynsgr\IeC {\o }t}{51}{section.1.39}
+\contentsline {paragraph}{Ingredienser}{51}{section*.91}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{51}{section*.92}
+\contentsline {section}{\numberline {1.40}\IeC {{}}Steikt kj\IeC {\o }ttp\IeC {\o }lse}{52}{section.1.40}
+\contentsline {paragraph}{Ingredienser}{52}{section*.93}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{52}{section*.94}
+\contentsline {section}{\numberline {1.41}\IeC {{}}Tacokj\IeC {\o }ttboller}{53}{section.1.41}
+\contentsline {paragraph}{Ingredienser}{53}{section*.95}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{53}{section*.96}
+\contentsline {section}{\numberline {1.42}\IeC {{}}Tacokrydder}{54}{section.1.42}
+\contentsline {subsection}{\numberline {1.42.1}Denne vi bruker}{54}{subsection.1.42.1}
+\contentsline {paragraph}{Ingredienser}{54}{section*.97}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{54}{section*.98}
+\contentsline {subsection}{\numberline {1.42.2}Variant}{54}{subsection.1.42.2}
+\contentsline {paragraph}{Ingredienser}{54}{section*.99}
+\contentsline {section}{\numberline {1.43}\IeC {{}}Chicken tikka masala}{55}{section.1.43}
+\contentsline {paragraph}{Ingredienser til marinade}{55}{section*.100}
+\contentsline {paragraph}{Ingredienser til saus}{55}{section*.101}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te marinade}{55}{section*.102}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te Saus}{56}{section*.103}
+\contentsline {section}{\numberline {1.44}\IeC {{}}Tomatsaus}{57}{section.1.44}
+\contentsline {paragraph}{Ingredienser}{57}{section*.104}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{57}{section*.105}
+\contentsline {section}{\numberline {1.45}\IeC {{}}Tortillalefser}{58}{section.1.45}
+\contentsline {paragraph}{Ingredienser}{58}{section*.106}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{58}{section*.107}
+\contentsline {paragraph}{N\IeC {\ae }ringsinnhold}{58}{section*.108}
+\contentsline {section}{\numberline {1.46}\IeC {{}}Thai V\IeC {\r a}rruller ala Dang}{59}{section.1.46}
+\contentsline {paragraph}{Ingredienser}{59}{section*.109}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{59}{section*.110}
+\contentsline {section}{\numberline {1.47}\IeC {{}}Viltp\IeC {\o }lse med potetstappe}{60}{section.1.47}
+\contentsline {paragraph}{Ingredienser}{60}{section*.111}
+\contentsline {paragraph}{Til pynt}{60}{section*.112}
+\contentsline {chapter}{\numberline {2}Kaker og deserter}{61}{chapter.2}
+\contentsline {section}{\numberline {2.1}\IeC {{}}Bl\IeC {\o }tekake}{62}{section.2.1}
+\contentsline {paragraph}{Ingredienser}{62}{section*.113}
+\contentsline {section}{\numberline {2.2}\IeC {{}}Kakemenn}{63}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Kakemenn fra Nese}{63}{subsection.2.2.1}
+\contentsline {paragraph}{Ingredienser}{63}{section*.114}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{63}{section*.115}
+\contentsline {subsection}{\numberline {2.2.2}Kakemenn ala Tine (med framgangsm\IeC {\r a}te)}{63}{subsection.2.2.2}
+\contentsline {paragraph}{Ingredienser}{63}{section*.116}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{63}{section*.117}
+\contentsline {section}{\numberline {2.3}\IeC {{}}Lussekatter}{65}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Norsk}{65}{subsection.2.3.1}
+\contentsline {paragraph}{Ingredienser}{65}{section*.118}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{65}{section*.119}
+\contentsline {subsection}{\numberline {2.3.2}Fran\IeC {\c c}ais}{65}{subsection.2.3.2}
+\contentsline {paragraph}{Ingr\IeC {\'e}dients}{65}{section*.120}
+\contentsline {paragraph}{Pr\IeC {\'e}parition}{66}{section*.121}
+\contentsline {section}{\numberline {2.4}\IeC {{}}Ostekake}{68}{section.2.4}
+\contentsline {paragraph}{Ingredienser}{68}{section*.122}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{68}{section*.123}
+\contentsline {section}{\numberline {2.5}\IeC {{}}Panna cotta}{69}{section.2.5}
+\contentsline {paragraph}{Ingredienser}{69}{section*.124}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{69}{section*.125}
+\contentsline {section}{\numberline {2.6}\IeC {{}}Pepperkaker}{70}{section.2.6}
+\contentsline {paragraph}{Ingredienser}{70}{section*.126}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{70}{section*.127}
+\contentsline {section}{\numberline {2.7}\IeC {{}}Sjokoladekjeks}{71}{section.2.7}
+\contentsline {paragraph}{Ingredienser}{71}{section*.128}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{71}{section*.129}
+\contentsline {section}{\numberline {2.8}\IeC {{}}H\IeC {\r a}kons sukkerbr\IeC {\o }d }{72}{section.2.8}
+\contentsline {paragraph}{Ingredienser}{72}{section*.130}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{72}{section*.131}
+\contentsline {section}{\numberline {2.9}\IeC {{}}Tyskeskjeva}{73}{section.2.9}
+\contentsline {paragraph}{Ingredienser}{73}{section*.132}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{73}{section*.133}
+\contentsline {chapter}{\numberline {3}Brygg}{74}{chapter.3}
+\contentsline {section}{\numberline {3.1}\IeC {{}}Ingef\IeC {\ae }r\IeC {\o }l}{75}{section.3.1}
+\contentsline {paragraph}{Ingredienser til 19L}{75}{section*.134}
+\contentsline {paragraph}{Ingredienser, skalert for \IeC {\r a} passe p\IeC {\r a} en 5L glassballong}{75}{section*.135}
+\contentsline {paragraph}{Framgangsm\IeC {\r a}te}{75}{section*.136}
+\contentsline {paragraph}{Notater}{75}{section*.137}
