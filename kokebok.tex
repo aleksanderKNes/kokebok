@@ -11,6 +11,8 @@
 \usepackage{graphicx}%for å kunne ha bilder i kokeboken
 \usepackage{booktabs}%for fine tabeller
 
+\usepackage{imakeidx}%for indeks bakerst
+
 \usepackage{enumitem} %for mer kompakte lister kombinert med \begin{itemize}[noitemsep]
 \usepackage[pdfauthor={Fredrik Lindseth}, pdftitle={Kokeboken til Fredrik}, pagebackref=true, pdftex]{hyperref}%for \url og klikkbar innholdsfortegnelse
 \usepackage{url} %bli kvitt alle \url. Endre til \hyperref og fjern denne
@@ -31,6 +33,8 @@
 \author{Fredrik Lindseth}
 \date{Sist oppdatert \today}
 
+\makeindex
+
 \begin{document}
 \maketitle
 
@@ -49,6 +53,7 @@
 \chapter{Brygg}
 \input sorterteBrygg.tex
 
+\printindex
 
 
 \end{document}
