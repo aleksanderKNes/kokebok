@@ -25,12 +25,13 @@ ebok: expand
 	pandoc -f latex -t epub -o KokebokenTilFredrik.epub kokebok-expanded.tex
 
 clean:
-	rm *.aux \
-	*.toc \
-	*.idx \
-	*.ilg \
-	*.ind \
-	*.log \
-	*.out \
-	kokebok-expanded.tex
+	rm *.aux
+	rm *.toc
+	rm *.idx
+	rm *.ilg
+	rm *.ind 
+	rm *.log
+	rm *.out 
+	rm kokebok-expanded.tex
+	rm kokebok-expanded.pdf
 
