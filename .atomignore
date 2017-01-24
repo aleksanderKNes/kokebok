@@ -9,3 +9,6 @@
 *.blg
 *.out
 *.log
+*.idx
+*.ilg
+*.ind
