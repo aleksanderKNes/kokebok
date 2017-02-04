@@ -20,5 +20,5 @@ script:
 
 language : latex
 group :  stable
-dist :  precise
+dist :  trusty
 os :  linux
