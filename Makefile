@@ -1,5 +1,3 @@
-all: build run
-
 build:
 	#Update all sorterteOppskrifter* to include new recipies
 	./update.sh
@@ -7,6 +5,9 @@ build:
 	#Build a PDF with pdflatex
 	pdflatex -jobname=KokebokenTilFredrik kokebok.tex
 
+all: build run
+
+lint:
 	#use chktex to lint, it expands the /includes
 	chktex -q -n 6 kokebok.tex > chtex.log
 
