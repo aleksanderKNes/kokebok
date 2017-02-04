@@ -1,24 +1,32 @@
 before_install:
-  - sudo apt-get -qq update
-
+- sudo apt-get -qq update #Quiet update
 install:
-    - sudo apt-get install -y texlive-latex-base texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended
-    #- sudo apt-get install -y chktex
+  - sudo apt-get install -y texlive-latex-base texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended
+  #- sudo apt-get install -y chktex
 
 before_script:
-    #- sudo updatedb # Create database for locate
-    #- locate imakeidx.sty # Verfify that the troublesome file is there
-    #- chktex -W # Print version information for chktex
-
+  #- sudo updatedb # Create database for locate
+  #- locate imakeidx.sty # Verfify that the troublesome file is there
+  #- chktex -W # Print version information for chktex
 script:
-    # Create the pdf
-    - make doublebuild
+  # Create the pdf
+  - make doublebuild
 
-    #- chktex -q -n 6 kokebok.tex > chtex.log
-    # If lint output is non-empty report an error.
-   #- test ! -s lint.out
+  #- chktex -q -n 6 kokebok.tex > chtex.log
+  # If lint output is non-empty report an error.
+  #- test ! -s lint.out
+  
+deploy:
+  # Deploy the file to the github release
+  provider: releases
+  api_key:
+    secure: NI6ipVG6VNZ8h/bbW1wHHOqJLuUqv2CwdUXPpB60WCg2qC2Tpyz5HUJZbc06mxGrxL2AsGhVE0jvNQEWiC/rKrXG5I5YrBnCK0vFw++3vI6ouoW/vfGbfi0D0m9HNxmMsXy5P5jhO48x30+YuzrxTTmbR0Qfz0xXktHSYg9a4uwSNoEFRT1nuKbGtGWDYeXZbLmMJnLB+m2xiNdNCraNUbyuou5oUUfiYbWSXFtjDxqH9pVJ2lKJfqoBQgEpW0Kdzisa33E+OWN5Yrrk66ty28dqOoghx+IVQe1iqJtsWJyLl9oZmVB8Wer5+q6hCW1eC+7Cnpvi6UomzcdQtWlqPPVSNOmH0b8Wg+1aydzK2SnMUe82aSIUfRNRb7gkMBt2mPgMtGpuEitrqe6+ikLZp3y3ai0lN0AbN1I/+xz29AQaqR0ye9LUvTt1YOX3oaweG7oAWn1cSAuzSLhsyPttdEB69AKUrr4b3rxlmkEStZDVHvRaHgLWvKWkVx0lz0YuLOeN4VzflfF0/mAtKWl+S8FsRsV4hIylpACTnpr5ijdYogprpxUpen8+mxXv8dslHxayWvT6FVaZ7cyu82gP6OoxKC1YgepnY5LZWvFG0OW2Ybj3l+RDgmM7j2jKD5V1FSTdicxQwzVE9h4J88iYScZQ2wdb1cih2XDs6zetQJM=
+  # Which file(s) to upload
+  file: KokebokenTilFredrik.pdf
+  on:
+    repo: FredrikLindseth/kokebok
 
-language : latex
-group :  stable
-dist :  trusty
-os :  linux
+language: latex
+group: stable
+dist: trusty
+os: linux
