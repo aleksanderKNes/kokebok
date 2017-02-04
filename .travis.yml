@@ -12,7 +12,7 @@ before_script:
 
 script:
     # Create the pdf
-    #- make build
+    - make build
 
     - chktex -q -n 6 kokebok.tex > chtex.log
     # If lint output is non-empty report an error.
