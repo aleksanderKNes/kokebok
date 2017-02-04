@@ -1,12 +1,12 @@
 before_install:
-  - sudo apt-get update
+  - sudo apt-get update -qq
 
 install:
-    - sudo apt-get install texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended
+    - sudo apt-get install texlive-latex-base texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended
     - sudo apt-get install chktex
 
 script:
-    - sudo updatedb && locate imakeidx.sty 
+    - sudo updatedb && locate imakeidx.sty
     - make
     - chktex -W # Print version information.
     - chktex -q -n 6 kokebok.tex 2>/dev/null | tee lint.out
