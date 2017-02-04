@@ -1,5 +1,5 @@
 install:
-    - sudo apt-get install texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-imakeidx
+    - sudo apt-get install texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-extra-utils texlive-font-utils
     - sudo apt-get install chktex
 
 script:
