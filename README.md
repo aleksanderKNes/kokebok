@@ -1,3 +1,5 @@
+![](https://travis-ci.org/FredrikLindseth/kokebok.svg?branch=master)
+
 # kokeboken til Fredrik
 Dette er LATEXversjonen av kokeboken/oppskriftene jeg har samlet sammen og lager til dagen. Denne finnes i PDFform og i EPUB, for eboklesere.
 
