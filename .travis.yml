@@ -7,10 +7,15 @@ install:
     - sudo apt-get install texlive-latex-base texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended
     - sudo apt-get install chktex
 
+before_script:
+    - sudo updatedb # Create database for locate
+    - locate imakeidx.sty # Verfify that the troublesome file is there
+    - chktex -W # Print version information for chktex
+
 script:
-    - locate imakeidx.sty
-    #- make
-    - chktex -W # Print version information.
-    - chktex -q -n 6 kokebok.tex 2>/dev/null | tee lint.out
+    # Create the pdf
+    #- make build
+
+    - 	chktex -q -n 6 kokebok.tex > chtex.log
     # If lint output is non-empty report an error.
-    - test ! -s lint.out
+   #- test ! -s lint.out
