@@ -16,7 +16,7 @@ script:
     # Create the pdf
     #- make build
 
-    - 	chktex -q -n 6 kokebok.tex > chtex.log
+    - chktex -q -n 6 kokebok.tex > chtex.log
     # If lint output is non-empty report an error.
    #- test ! -s lint.out
 
