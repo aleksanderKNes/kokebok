@@ -7,6 +7,9 @@ build:
 	#Build a PDF with pdflatex
 	pdflatex -jobname=KokebokenTilFredrik kokebok.tex
 
+	#use chktex to lint, it expands the /includes
+	chktex -q -n 6 kokebok.tex > chtex.log
+
 run:
 	# Using evince/Gnome PFD reader for PDF viewing
 	evince KokebokenTilFredrik.pdf &
