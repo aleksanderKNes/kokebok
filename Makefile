@@ -5,6 +5,16 @@ build:
 	#Build a PDF with pdflatex
 	pdflatex -jobname=KokebokenTilFredrik kokebok.tex
 
+doublebuild:
+	build:
+		#Update all sorterteOppskrifter* to include new recipies
+		./update.sh
+
+		#Build a PDF with pdflatex
+		pdflatex -jobname=KokebokenTilFredrik kokebok.tex
+		#And again for annotations and references
+		pdflatex -jobname=KokebokenTilFredrik kokebok.tex
+
 all: build run
 
 lint:
