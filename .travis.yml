@@ -18,7 +18,7 @@ script:
     # If lint output is non-empty report an error.
    #- test ! -s lint.out
 
-  "language": "latex",
-  "group": "stable",
-  "dist": "precise",
-  "os": "linux"
+   language : latex
+   group :  stable
+   dist :  precise
+   os :  linux
