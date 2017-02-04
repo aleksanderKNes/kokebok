@@ -1,11 +1,11 @@
 language: latex
 
 before_install:
-  - sudo apt-get update
+  - sudo apt-get -qq update
 
 install:
-    - sudo apt-get install texlive-latex-base texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended
-    - sudo apt-get install chktex
+    - sudo apt-get install -y texlive-latex-base texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended
+    - sudo apt-get install -y chktex
 
 before_script:
     - sudo updatedb # Create database for locate
@@ -19,3 +19,7 @@ script:
     - 	chktex -q -n 6 kokebok.tex > chtex.log
     # If lint output is non-empty report an error.
    #- test ! -s lint.out
+
+  "group": "stable",
+  "dist": "trusty",
+  "os": "linux"
