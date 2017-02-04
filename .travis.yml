@@ -19,6 +19,6 @@ script:
    #- test ! -s lint.out
 
 language : latex
-  #  group :  stable
-  #  dist :  precise
-  #  os :  linux
+group :  stable
+dist :  precise
+os :  linux
