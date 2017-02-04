@@ -1,8 +1,3 @@
-# language: latex
-# "group": "stable",
-# "dist": "trusty",
-# "os": "linux"
-
 before_install:
   - sudo apt-get -qq update
 
@@ -22,3 +17,8 @@ script:
     - chktex -q -n 6 kokebok.tex > chtex.log
     # If lint output is non-empty report an error.
    #- test ! -s lint.out
+
+  "language": "latex",
+  "group": "stable",
+  "dist": "precise",
+  "os": "linux"
