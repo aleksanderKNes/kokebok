@@ -181,3 +181,5 @@ TSWLatexianTemp*
 
 # Vim
 *.swp
+
+*.old
