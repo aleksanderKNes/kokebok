@@ -1,0 +1,29 @@
+\begin{titlepage}
+  \maketitle
+
+  % % front cover insted of \maketitle:
+  % \thispagestyle{empty}
+  % \begin{textblock*}{160mm}(-3mm,0mm)
+  % %\textblockcolour{red}
+  %   \includegraphics[width=160mm]{images/cover.png}  % full-page picture for 160x240 format
+  % \end{textblock*}
+  % \null\newpage % latex might neglect \newpage because the page is empty,
+
+
+  % blank page
+  % \thispagestyle{empty}
+  % \null\newpage
+
+  \setcounter{page}{5}
+  \pagenumbering{roman}
+
+  \tableofcontents
+  \clearpage
+
+  \input todo.tex
+  \clearpage
+
+  % blank page
+  \thispagestyle{empty}
+  \null\newpage
+\end{titlepage}
