@@ -1,7 +1,7 @@
 \documentclass[12pt,a4paper]{book}
 
 %% Language and font encodings
-%\usepackage[norsk]{babel}
+\usepackage[norsk]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 
@@ -38,46 +38,20 @@
 \makeindex
 
 \begin{document}
-\maketitle
-
-% % front cover insted of \maketitle:
-% \thispagestyle{empty}
-% \begin{textblock*}{160mm}(-3mm,0mm)
-% %\textblockcolour{red}
-%   \includegraphics[width=160mm]{images/cover.png}  % full-page picture for 160x240 format
-% \end{textblock*}
-% \null\newpage % latex might neglect \newpage because the page is empty,
-
-
-% blank page
-% \thispagestyle{empty}
-% \null\newpage
-
-\setcounter{page}{5}
-\pagenumbering{roman}
-
-\tableofcontents
-\clearpage
-
-\input todo.tex
-\clearpage
-
-% blank page
-\thispagestyle{empty}
-\null\newpage
+\input{titlepage}
 
 \setcounter{page}{1}
 \pagenumbering{arabic}
 %\include{introduction}
 
 \chapter{Middager}
-\input sorterteOppskrifter.tex
+\input{sorterteOppskrifter}
 
 \chapter{Kaker og deserter}
-\input sorterteDeserter.tex
+\input{sorterteDeserter}
 
 \chapter{Brygg}
-\input sorterteBrygg.tex
+\input{sorterteBrygg}
 
 \printindex
 
