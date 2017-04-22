@@ -4,7 +4,7 @@
 Dette er LATEXversjonen av oppskriftene jeg har samlet sammen og lager til dagen. Denne finnes i PDFform og i EPUB, for eboklesere.
 
 [FredrikSinKokebok.pdf](KokebokenTilFredrik.pdf) i rotmappen er PDFen som bygges fra [kokebox.tex](kokebok.tex) som er hovedlatexfilen.
-Alle oppskriftene ligger i egne filer under [Oppskrifter](oppskrifter). Den enkleste måten å lage en oppdatert utgave denne PDFen er å kjøre kommandoen `make food`. PDFen som ligger i dette GitHub repositoriet vil automatisk være oppdatert til nyeste versjon.
+Alle oppskriftene ligger i egne filer under [Oppskrifter](oppskrifter). Den enkleste måten å lage en oppdatert utgave denne PDFen er å kjøre kommandoen `make food`. For siste versjon av PDFen se [github.com/FredrikLindseth/kokebok/releases/latest](https://github.com/FredrikLindseth/kokebok/releases/latest), Travis holder denne oppdatert kontinuerlig.
 
 
 ## Nye oppskrifter
