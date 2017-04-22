@@ -2,6 +2,13 @@ build:
 	#Update all sorterteOppskrifter* to include new recipies
 	./update.sh
 
+	#Build a PDF with lualatex
+	lualatex -jobname=KokebokenTilFredrik kokebok.tex
+
+build_pdflatex:
+	#Update all sorterteOppskrifter* to include new recipies
+	./update.sh
+
 	#Build a PDF with pdflatex
 	pdflatex -jobname=KokebokenTilFredrik kokebok.tex
 
