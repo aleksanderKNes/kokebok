@@ -1,38 +1,12 @@
+% Kokeboken til Fredrik
+% Authors: Fredrik Lindseth
+% Date created :  < 2015
+% Date modified : \today on the front
+% URL: https://github.com/FredrikLindseth/kokebok/commits/master
+% License: CC-BY-SA
+
 \documentclass[12pt,a4paper]{book}
-
-%% Language and font encodings
-\usepackage[norsk]{babel}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-
-%% Sets page size and margins
-%\usepackage[a4paper]{geometry}
-
-\usepackage{graphicx}%for å kunne ha bilder i kokeboken
-\usepackage{booktabs}%for fine tabeller
-
-\usepackage{imakeidx}%for indeks bakerst
-
-\usepackage{enumitem} %for mer kompakte lister kombinert med \begin{itemize}[noitemsep]
-\usepackage[pdfauthor={Fredrik Lindseth}, pdftitle={Kokeboken til Fredrik}, pagebackref=true]{hyperref}%for \url og klikkbar innholdsfortegnelse
-
-\usepackage{gensymb} %for \degree
-\usepackage{xfrac} %for \sfrac
-
-\usepackage{amssymb} % for \checkmark
-% \usepackage{pdflscape}%for å kunne rotere hele sider (ble brukt i pasta til brei tabell)
-
-
-
-\hypersetup{colorlinks=true,
-    colorlinks,
-    citecolor=black,
-    filecolor=black,
-    linkcolor=black,
-    urlcolor=black %fargen på link hvis colorlinks=true
-    %urlbordercolor 	={0 0 1} %if colorlinks=false, ha boks i stedet
-}
-\urlstyle{same} %for å bruke samme font til URL som resten
+\usepackage{style}
 
 \title{Kokeboken til Fredrik}
 \author{Fredrik Lindseth}
@@ -42,6 +16,35 @@
 
 \begin{document}
 \input{forside}
+
+% blank side for å få annenhver side til å gå opp
+\thispagestyle{empty}
+\null\newpage
+
+% front matter %
+\thispagestyle{empty}
+\begin{textblock*}{90mm}(85mm,90mm)
+%\textblockcolour{red}
+\noindent
+{\sffamily\LARGE\bfseries Kokeboken til Fredrik}\\
+\noindent
+{\sffamily\small Fredrik Lindseth}\\
+{\color{dark-gray}\rule[5pt]{220pt}{3pt}}
+\end{textblock*}
+\null\newpage
+
+% % Lisenssiden
+% \thispagestyle{empty}
+% \include{license}
+
+\input{innledning}
+
+\input todo.tex
+
+
+\tableofcontents
+\clearpage
+
 
 \setcounter{page}{1}
 \pagenumbering{arabic}
