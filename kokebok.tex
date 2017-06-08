@@ -8,13 +8,10 @@
 \documentclass[12pt,a4paper]{book}
 \usepackage{style}
 
-\title{Kokeboken til Fredrik}
-\author{Fredrik Lindseth}
-\date{Sist oppdatert \today}
-
 \makeindex
 
 \begin{document}
+\pagenumbering{arabic}
 \input{forside}
 
 % blank side for å få annenhver side til å gå opp
@@ -24,7 +21,6 @@
 % front matter %
 \thispagestyle{empty}
 \begin{textblock*}{90mm}(85mm,90mm)
-%\textblockcolour{red}
 \noindent
 {\sffamily\LARGE\bfseries Kokeboken til Fredrik}\\
 \noindent
@@ -34,21 +30,18 @@
 \null\newpage
 
 % % Lisenssiden
-% \thispagestyle{empty}
-% \include{license}
-
-\input{innledning}
-
-\input todo.tex
-
+\thispagestyle{empty}
+\include{license}
 
 \tableofcontents
 \clearpage
 
-
 \setcounter{page}{1}
 \pagenumbering{arabic}
-%\include{introduction}
+
+\input{innledning}
+
+\input todo.tex
 
 \chapter{Middager}
 \input{sorterteOppskrifter}
@@ -60,6 +53,5 @@
 \input{sorterteBrygg}
 
 \printindex
-
 
 \end{document}
